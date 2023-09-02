@@ -1,0 +1,4 @@
+/connect-four-be/.env
+/connect-four-be/node_modules
+/connect-four-fe/node_modules
+/connect-four-fe/.next
